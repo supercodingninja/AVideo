@@ -1,4 +1,4 @@
-# This is an interesting repository I decided to fork and give it a go, on my own machine.  I am studying similar topics, personally.  Please checkout AVideo for yourself [AVideo](https://github.com/supercodingninja/AVideo)
+# This is an interesting repository I decided to fork and give it a go, on my own machine.  I am studying similar topics, personally.  Please checkout AVideo for yourself [AVideo](https://github.com/WWBN/AVideo)
 
 
 
